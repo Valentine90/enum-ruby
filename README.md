@@ -1,7 +1,7 @@
 ## Sobre
 <p>Comportamento semelhante ao Enum para Ruby.</p>
 
-## Exemplo:
+## Exemplos:
 ```
 Sex = enum %w(
   MALE
