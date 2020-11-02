@@ -1,15 +1,15 @@
-## Sobre
+## About
 ![lANG](https://img.shields.io/badge/LANG-RUBY(%20RGSS%20)-red?style=for-the-badge&logo=appveyo)
-<p>Comportamento semelhante ao Enum para Ruby.</p>
+<p>Behavior similar to Enum for Ruby.</p>
 
-## Exemplos:
+## Examples:
 ```
 Sex = enum %w(
   MALE
   FEMALE
 )
 ```
-Ou:
+Or:
 ```
 Dir = enum %w(
   DOWN_LEFT  1
