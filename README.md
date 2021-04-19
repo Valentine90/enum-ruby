@@ -2,7 +2,7 @@
 ![lANG](https://img.shields.io/badge/LANG-RUBY(%20RGSS%20)-red?style=for-the-badge&logo=appveyo)
 <p>Behavior similar to Enum for Ruby.</p>
 
-## Examples:
+## Examples
 ```
 Sex = enum %w(
   MALE
