@@ -1,5 +1,5 @@
 ## About
-![lANG](https://img.shields.io/badge/LANG-RUBY(%20RGSS%20)-red?style=for-the-badge&logo=appveyo)
+![lANG](https://img.shields.io/badge/LANG-RUBY-red?style=for-the-badge&logo=appveyo)
 
 [Enumeration type](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/enum) for Ruby.
 
