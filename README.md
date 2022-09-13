@@ -13,11 +13,11 @@ Sex::Female #=> 1
 ```
 Or:
 ```Ruby
-Dir = enum %w(
+Dirn = enum %w(
   Down_Left  1
   Down_Right 3
 )
 
-Dir::Down_Left #=> 1
-Dir::Down_Right #=> 3
+Dirn::Down_Left #=> 1
+Dirn::Down_Right #=> 3
 ```
