@@ -8,7 +8,7 @@ Sex = enum %w(
   Female
 )
 
-Sex::Male #=> 0
+Sex::Male   #=> 0
 Sex::Female #=> 1
 ```
 Or:
@@ -18,6 +18,6 @@ Dirn = enum %w(
   Down_Right 3
 )
 
-Dirn::Down_Left #=> 1
+Dirn::Down_Left  #=> 1
 Dirn::Down_Right #=> 3
 ```
