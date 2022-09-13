@@ -3,21 +3,21 @@
 
 ## Examples
 ```Ruby
-SEX = enum %w(
-  MALE
-  FEMALE
+Sex = enum %w(
+  Male
+  Female
 )
 
-SEX::MALE #=> 0
-SEX::FEMALE #=> 1
+Sex::Male #=> 0
+Sex::Female #=> 1
 ```
 Or:
 ```Ruby
-DIR = enum %w(
-  DOWN_LEFT  1
-  DOWN_RIGHT 3
+Dir = enum %w(
+  Down_Left  1
+  Down_Right 3
 )
 
-DIR::DOWN_LEFT #=> 1
-DIR::DOWN_RIGHT #=> 3
+Dir::Down_Left #=> 1
+Dir::Down_Right #=> 3
 ```
